@@ -1,0 +1,9 @@
+{
+  "name": "num-parser",
+  "description": "Numeric parser for convert numbers into the most common bases.",
+  "version": "1.0.0",
+  "main": "./lib/index.js",
+  "repository": "https://github.com/cpurificacao/num-parser.git",
+  "author": "cpurificacao <carlos.purificacao@outlook.com>",
+  "license": "MIT"
+}
